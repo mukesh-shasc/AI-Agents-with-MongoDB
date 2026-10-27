@@ -23,23 +23,6 @@ AI Agents with MongoDB is an intelligent application that uses AI agents to proc
 - Automated task processing
 - Flexible and scalable architecture
 
-## 📂 Project Structure
-
-```text
-AI-Agents-MongoDB/
-├── frontend/
-├── backend/
-├── config/
-├── models/
-├── routes/
-├── .env.example
-├── .gitignore
-├── package.json
-└── README.md
-```
-
-*Note: Update the folder structure to match your actual project.*
-
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
